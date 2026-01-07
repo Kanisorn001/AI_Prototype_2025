@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'http://localhost:5001/request'
+url = 'http://localhost:5001/request_POSTGET'
 myobj = {
             'name':'Kanisorn',
             'age':'22'
