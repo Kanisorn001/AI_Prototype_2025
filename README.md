@@ -9,7 +9,7 @@
 
 ---
 
-## 📅 Calendar
+## Lecture
 
 | CLASS | DESCRIPTION | LECTURE |
 |:---:|---|:---:|
