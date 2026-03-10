@@ -18,8 +18,7 @@
 | III | Python Environment Setup | [Lecture Class III](Lecture%20Class%20III.md) |
 | IV | Environment & Version Control | [Lecture Class IV](Lecture%20Class%20IV.md) |
 | V | Deploy Web App on Azure VM | [Lecture Class V](Lecture%20Class%20V.md) |
-| VI | Web Service & REST API | [Lecture Class VI](Lecture%20Class%20VI.md) |
-| VII | AI Fundamentals & LLM Training | [Lecture Class VI](Lecture%20Class%20VII.md) |
+| VI| AI Fundamentals & LLM Training | [Lecture Class VI](Lecture%20Class%20VII.md) |
 
 
 
