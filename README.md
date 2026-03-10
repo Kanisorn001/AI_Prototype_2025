@@ -9,17 +9,17 @@
 
 ---
 
-## lecture
+## LECTURE
 
 | CLASS | DESCRIPTION | LECTURE |
 |:---:|---|:---:|
-| I | Ubuntu Command Line | [Lecture_Class_I](./Lecture_Class_I.md) |
-| II | Cloud Virtual Machines | [Lecture_Class_II](./Lecture_Class_II.md) |
-| III | Python Environment Setup | [Lecture_Class_III](./Lecture_Class_III.md) |
-| IV | Environment & Version Control | [Lecture_Class_IV](./Lecture_Class_IV.md) |
-| V | Deploy Web App on Azure VM | [Lecture_Class_V](./Lecture_Class_V.md) |
-| VI | Web Service & REST API | [Lecture_Class_VI](./Lecture_Class_VI.md) |
-| VII | AI Fundamentals & LLM Training | [Lecture_Class_VII](./Lecture_Class_VII.md) |
+| I | Ubuntu Command Line | [📄 Notes](Lecture%20Class%20I.md) |
+| II | Cloud Virtual Machines | [📄 Notes](Lecture%20Class%20II.md) |
+| III | Python Environment Setup | [📄 Notes](Lecture%20Class%20III.md) |
+| IV | Environment & Version Control | [📄 Notes](Lecture%20Class%20IV.md) |
+| V | Deploy Web App on Azure VM | [📄 Notes](Lecture%20Class%20V.md) |
+| VI | Web Service & REST API | [📄 Notes](Lecture%20Class%20VI.md) |
+| VII | AI Fundamentals & LLM Training | [📄 Notes](Lecture%20Class%20VII.md) |
 
 ---
 
