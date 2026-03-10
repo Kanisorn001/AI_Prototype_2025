@@ -1,7 +1,7 @@
 # AI_Prototype_2025
 AI Prototpe 2025 Kanisorn Kudklang 653020202-7 นายคณิศร กุดกลาง
 
-##📅 Calendar
+## 📅 Calendar
 
 | CLASS | DESCRIPTION | LECTURE |
 |---|---|---|
