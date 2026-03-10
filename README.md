@@ -1,5 +1,6 @@
 # AI_Prototype_2025
-AI Prototpe 2025 Kanisorn Kudklang 653020202-7 นายคณิศร กุดกลาง
+SC664401 Prototyping for Artificial Intelligence and Machine Learning System
+653020202-7 นายคณิศร กุดกลาง
 
 ## 📅 Calendar
 
