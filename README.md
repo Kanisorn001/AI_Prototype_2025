@@ -12,6 +12,5 @@ SC664401 Prototyping for Artificial Intelligence and Machine Learning System
 | IV | Web Page | [Lecture Class IV.md](./lectures/Lecture_Class_IV.md) |
 | V | Environment Conda | [Lecture Class V.md](./lectures/Lecture_Class_V.md) |
 | VI | Web Service | [Lecture Class VI.md](./lectures/Lecture_Class_VI.md) |
-| VII | Deep Learning | [Lecture Class VII.md](./lectures/Lecture_Class_VII.md) |
 
 ---
