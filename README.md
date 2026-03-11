@@ -8,25 +8,30 @@ Course description : Concepts of Artificial Intelligent/Machine Leaning system i
 
 อาจารย์:	ผศ.ดร.ธนพงศ์ อินทระ
 
-**ชื่อ นายคณิศร กุดกลาง**
 
-**รหัสนักศึกษา 653020202-7** 
-
-**สาขา สถิติและวิทยาการข้อมูล วิชาเอกสารสนเทศสถิติและวิทยาการข้อมูล**
-
-**มหาวิทยาลัยขอนเเก่น** 
-
-**Email : kanisorn.k@kkumail.com** 
-
-### ⏰ Timeline & Milestones
-- 🟢 **Course Start:** 26/11/2025  
-- 🔴 **Final Presentation:** 11/03/2026  
-
-🌐 **[Web Page](https://kanisorn001.github.io/GRALD.github.io/)** · 📱 **[Web App](https://graold.onrender.com)** · 
 
 ---
 
-## LECTURE
+## ⏰ Timeline
+
+| | |
+|---|---|
+| 🟢 **Course Start** | 26 พฤศจิกายน 2025 |
+| 🔴 **Final Presentation** | 11 มีนาคม 2026 |
+
+---
+# 👤 Personal Information
+| | |
+|---|---|
+| 👨‍🎓 **ชื่อ** | นายคณิศร กุดกลาง |
+| 🪪 **รหัสนักศึกษา** | 653020202-7 |
+| 📚 **สาขา** | สถิติและวิทยาการข้อมูล (วิชาเอกสารสนเทศสถิติและวิทยาการข้อมูล) |
+| 🏫 **มหาวิทยาลัย** | มหาวิทยาลัยขอนแก่น |
+| 📧 **Email** | kanisorn.k@kkumail.com |
+
+---
+
+## 📔 LECTURE
 
 | CLASS | DESCRIPTION | LECTURE |
 |:---:|---|:---:|
@@ -37,7 +42,12 @@ Course description : Concepts of Artificial Intelligent/Machine Leaning system i
 | V | Deploy Web App on Azure VM | [Lecture Class V](Lecture%20Class%20V.md) |
 | VI| AI Fundamentals & LLM Training | [Lecture Class VI](Lecture%20Class%20VII.md) |
 
+---
 
+## 🌐 **[Web Page](https://kanisorn001.github.io/GRALD.github.io/)** 
 
+---
 
+## 📱 **[Web App](https://graold.onrender.com)** 
 
+---
