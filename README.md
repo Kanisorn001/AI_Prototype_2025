@@ -2,7 +2,8 @@
 
 > **SC664401** — Prototyping for Artificial Intelligence and Machine Learning System  
 > การสร้างต้นแบบสำหรับระบบปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง
-
+> คำอธิบายรายวิชา : แนวคิดและขั้นตอนในการสร้างต้นแบบระบบปัญญาประดิษฐ์และการเรียนรู้ของเครื่อง การประมวลผลบนคลาวด์ เครื่องคอมพิวเตอร์แบบเสมือน การใช้งานชุดคำสั่งยูนิกส์เบื้องต้น การใช้งาน GIT เบื้องต้น การใช้งานไพธอนโน๊ตบุ๊คบนคลาวด์ การสร้างเว็ปแอพพลิเคชั่นและ API ด้วยภาษาไพธอน การพัฒนาระบบเรียนรู้เชิงลึกด้วยชุดคำสั่งไพธอน การลงบันทึกและการใช้แดชบอร์ดแสดงผลข้อมูล
+> Course description : Concepts of Artificial Intelligent/Machine Leaning system implementation and prototyping the AI/ML system: cloud computing, virtual machine, basic unix, basic GIT and version control, cloud Python notebook, webapplication and API development with Python, deep learning with Python, logging, and dashboard
 **Kanisorn Kudklang · 653020202-7 · คณิศร กุดกลาง**
 
 🌐 **[Web Page](https://kanisorn001.github.io/GRALD.github.io/)** · 📱 **[Web App](https://graold.onrender.com)** · 
